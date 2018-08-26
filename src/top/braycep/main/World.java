@@ -103,7 +103,7 @@ public class World extends JPanel {
     }
 
     private void shootAction() {
-        if (++bulletDelay % 20 == 0) {
+        if (++bulletDelay % 30 == 0) {
             bulletDelay = 0;
             Bullet[] bs = heroPlane.shoot();
             bullets = Arrays.copyOf(this.bullets, bullets.length + bs.length);
