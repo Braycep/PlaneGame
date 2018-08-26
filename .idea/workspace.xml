@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b5477f3-fe7a-4cf6-9de1-936f92588bee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PlaneGameTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/airplane0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/airplane1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/airplane2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/airplane3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/airplane4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bee0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bee1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bee2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bee3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bee4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bigplane0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bigplane1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bigplane2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bigplane3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bigplane4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gameover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hero0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hero1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/bean/Bee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/bean/BigPlane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/bean/Bullet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/bean/FlyingObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/bean/HeroPlane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/bean/Sky.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/bean/SmallPlane.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/inter/Award.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/inter/Score.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/main/World$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/main/World$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/main/World$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/main/World.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PlaneGameTest/top/braycep/test/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/bean/Bee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/bean/BigPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/bean/Bullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/bean/FlyingObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/bean/HeroPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/bean/Sky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/bean/SmallPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/inter/Award.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/inter/Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/main/World.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/top/braycep/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,24 +27,28 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="java" value="13" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="13" />
+          <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="4904" />
-          <entry key="txt" value="33" />
+          <entry key="md" value="49" />
+          <entry key="txt" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="4904" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="Markdown" value="49" />
+          <entry key="PLAIN_TEXT" value="57" />
         </counts>
       </usages-collector>
     </session>
@@ -124,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/top/braycep/bean/HeroPlane.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="27" column="57" lean-forward="true" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+            <state relative-caret-position="66">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
                 <element signature="e#298#299#0" expanded="true" />
                 <element signature="e#367#368#0" expanded="true" />
@@ -147,6 +100,18 @@
                 <element signature="e#1505#1506#0" expanded="true" />
                 <element signature="e#1532#1533#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -259,6 +224,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="杨波 &lt;braycep@foxmail.com&gt;" />
         <option value="braycep@foxmail.com" />
         <option value="Braycep" />
         <option value="b" />
@@ -281,6 +247,7 @@
         <option value="$PROJECT_DIR$/src/top/braycep/bean/Bullet.java" />
         <option value="$PROJECT_DIR$/src/top/braycep/main/World.java" />
         <option value="$PROJECT_DIR$/src/top/braycep/bean/HeroPlane.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -310,40 +277,6 @@
             <path>
               <item name="PlaneGameTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="PlaneGameTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlaneGameTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlaneGameTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlaneGameTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlaneGameTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlaneGameTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlaneGameTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="braycep" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlaneGameTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlaneGameTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="braycep" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PlaneGameTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PlaneGameTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="top" type="462c0819:PsiDirectoryNode" />
-              <item name="braycep" type="462c0819:PsiDirectoryNode" />
-              <item name="inter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -423,12 +356,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535251774909</updated>
-      <workItem from="1535251776163" duration="17561000" />
+      <workItem from="1535251776163" duration="17874000" />
     </task>
+    <task id="LOCAL-00001" summary="提交项目">
+      <created>1535271653213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535271653213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17561000" />
+    <option name="totallyTimeSpent" value="17874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -441,11 +382,11 @@
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50073206" side_tool="true" weight="0.2554517" />
       <window_info anchor="bottom" id="Messages" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.2554517" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49926794" visible="true" weight="0.2554517" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39968896" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -602,8 +543,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/top/braycep/bean/HeroPlane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="27" column="57" lean-forward="true" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        <state relative-caret-position="66">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding>
             <element signature="e#298#299#0" expanded="true" />
             <element signature="e#367#368#0" expanded="true" />
@@ -622,6 +563,16 @@
             <element signature="e#1505#1506#0" expanded="true" />
             <element signature="e#1532#1533#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
